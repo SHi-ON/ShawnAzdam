@@ -25,7 +25,7 @@
         </a>
         <a
           class="variant-glass-primary btn"
-          href="https://x.shawyan.com/google-scholar"
+          href="https://s.azdam.com/google-scholar"
           target="_blank"
           rel="noreferrer">
           <img
