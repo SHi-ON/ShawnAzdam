@@ -36,7 +36,7 @@
         </a>
         <a
           class="variant-glass-primary btn"
-          href="https://x.shawyan.com/linkedin"
+          href="https://s.azdam.com/linkedin"
           target="_blank"
           rel="noreferrer">
           <img
@@ -47,7 +47,7 @@
         </a>
         <a
           class="variant-glass-primary btn"
-          href="https://x.shawyan.com/x"
+          href="https://s.azdam.com/x"
           target="_blank"
           rel="noreferrer">
           <img
@@ -58,7 +58,7 @@
         </a>
         <a
           class="variant-glass-primary btn"
-          href="https://x.shawyan.com/stack-overflow"
+          href="https://s.azdam.com/stack-overflow"
           target="_blank"
           rel="noreferrer">
           <img
