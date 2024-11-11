@@ -14,7 +14,7 @@
       <svelte:fragment slot="trail">
         <a
           class="variant-glass-primary btn"
-          href="https://x.shawyan.com/github"
+          href="https://s.azdam.com/github"
           target="_blank"
           rel="noreferrer">
           <img
