@@ -1,6 +1,7 @@
 <script lang="ts">
   import '../app.postcss';
   import { AppShell, AppBar } from '@skeletonlabs/skeleton';
+  import Icon from '@iconify/svelte';
 </script>
 
 <!-- App Shell -->
@@ -17,55 +18,35 @@
           href="https://s.azdam.com/github"
           target="_blank"
           rel="noreferrer">
-          <img
-            height="28"
-            width="28"
-            alt="GitHub icon"
-            src="https://cdn.simpleicons.org/github/white" />
+          <Icon icon="mdi:github" height="28" width="28" color="white" />
         </a>
         <a
           class="variant-glass-primary btn"
           href="https://s.azdam.com/google-scholar"
           target="_blank"
           rel="noreferrer">
-          <img
-            height="28"
-            width="28"
-            alt="Google Scholar icon"
-            src="https://cdn.simpleicons.org/googlescholar/white" />
+          <Icon icon="simple-icons:googlescholar" height="28" width="28" color="white" />
         </a>
         <a
           class="variant-glass-primary btn"
           href="https://s.azdam.com/linkedin"
           target="_blank"
           rel="noreferrer">
-          <img
-            height="28"
-            width="28"
-            alt="LinkedIn icon"
-            src="https://cdn.simpleicons.org/linkedin/white" />
+          <Icon icon="mdi:linkedin" height="28" width="28" color="white" />
         </a>
         <a
           class="variant-glass-primary btn"
           href="https://s.azdam.com/x"
           target="_blank"
           rel="noreferrer">
-          <img
-            height="28"
-            width="28"
-            alt="X icon"
-            src="https://cdn.simpleicons.org/x/white" />
+          <Icon icon="simple-icons:x" height="28" width="28" color="white" />
         </a>
         <a
           class="variant-glass-primary btn"
           href="https://s.azdam.com/stack-overflow"
           target="_blank"
           rel="noreferrer">
-          <img
-            height="28"
-            width="28"
-            alt="Stack Overflow icon"
-            src="https://cdn.simpleicons.org/stackoverflow/white" />
+          <Icon icon="mdi:stack-overflow" height="28" width="28" color="white" />
         </a>
       </svelte:fragment>
     </AppBar>
